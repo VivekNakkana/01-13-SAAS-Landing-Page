@@ -1,5 +1,7 @@
 # SAAS Landing Page
-
+![img](https://img.shields.io/badge/ineuron-FullStackJS-yellowgreen)
+![img](https://img.shields.io/badge/HTML-5-brightgreen)
+![img](https://img.shields.io/badge/CSS-3-blue)
 
 ### Things I learnt while making this page:
 - To position text and images on both sides of the page.
@@ -8,7 +10,7 @@
 
 #### Time Spent: 3 hours
 
-[Live]()
+[Live](https://saas-landing-page-vivekn.netlify.app/)
 
 #### Here is the quick look of How webpage will look like
 
